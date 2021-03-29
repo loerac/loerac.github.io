@@ -2,12 +2,12 @@
 - company: Foxconn Industry Internet
   position: BMC Firmware Engineer
   duration: Dec, 2019 &mdash; Present
-  summary: Worked in low-level architecture of the Linux Kernel and Devicetree to create a BMC image. Worked on teaching how to use Bitbake for development and debugging for Yocto. Added Redfish support to get and update system info; <ul class="resume-item-list"><li>Sensor information</li><li>BMC and BIOS version</li><li>User system control</li></ul>Created tools to imporve build BMC images correctly and efficiently. Wrote documents explaining the architecuter and development process.
+  summary: Worked in low-level architecture of the Linux Kernel and Devicetree to create a BMC image. Worked on teaching how to use Bitbake for development and debugging for Yocto. Added Redfish support to get and update system info; <ul class="resume-item-list"><li>Sensor information</li><li>BMC and BIOS version</li><li>User system control</li></ul>Created tools to imporve build BMC images correctly and efficiently. Wrote documents explaining the architecture and development process.
 
 - company: Astornautics Corporation of America
   position: Software Engineer I
   duration:  June, 2018 &mdash; Dec, 2019
-  summary: Ensured that there was enough memory space for log files by deleting old and exported data once memory space is limited. Improved on the security and integrity of the file system; <ul class="resume-item-list"><li>Ensured that executable files weren't changed for a different file</li><li>Ensured that file permissions weren't changed</li><li>Ensure that no extra file's were added to any directory or renamed</li></ul>Strengthen communication between an aircraft and ground station by using RSA authentication or X.509 Certificates to connect and send data to each other. Wrote software requirements that explains what each part of the code shall do at any given time.
+  summary: Ensured that there was enough memory space for log files by deleting old and exported data once memory space is limited. Improved on the security and integrity of the file system; <ul class="resume-item-list"><li>Ensured that executable files weren't changed for a different file</li><li>Ensured that file permissions weren't changed</li><li>Ensured that no extra file's were added to any directory or renamed</li></ul>Strengthen communication between an aircraft and ground station by using RSA authentication or X.509 Certificates to connect and send data to each other. Wrote software requirements that explains what each part of the code shall do at any given time.
 
 - company: Integer Holding Corporation
   position: Control Engineer Intern

@@ -10,7 +10,7 @@
 - project: Vault Depot - Go
   duration: November 2020
   url: "github.com/loerac/vaultDepot"
-  description: Store encrypted passwords, username, and email into a database for each website. Command line interface to add, access, and edit information. Database is able to export into a CSV file, and able to import a CSV across different machines. Multiply users can access password manager by creating own account to store individual passwords for each website.
+  description: Store multiple encrypted passwords, username, and email into a database for each website. Command line interface to add, access, and edit information. Database is able to export into a CSV file, and able to import a CSV across different machines. Multiply users can access password manager by creating own account to store individual passwords for each website.
 
 # Ledger
 - project: Ledger - Go
