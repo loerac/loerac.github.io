@@ -4,16 +4,16 @@
 - project: Crypto HODL - Python
   duration: March 2021
   url: "https://github.com/loerac/crypto-hodl"
-  description: Display my portfolio of each cryptocurrency with price/loss, as well as my cryptocurrency history orders that I have made. Using API's to get orders, coin information, and news then storing data into cache. Using cache to read and write data from Raspberry Pi rather than continuously calling API's for the data.
+  description: Displays my portfolio of each cryptocurrency with price/loss, as well as my order history that I have made for each cryptocurrency. Uses API's to get orders, coin information, and news then storing data into cache. Uses cache to read and write data from Raspberry Pi rather than continuously calling API's for the data.
 
 # Vault Depot
 - project: Vault Depot - Go
   duration: November 2020
   url: "https://github.com/loerac/vaultDepot"
-  description: Store multiple encrypted passwords, username, and email into a database for each website. Command line interface to add, access, and edit information. Database is able to export into a CSV file, and able to import a CSV across different machines. Multiply users can access password manager by creating own account to store individual passwords for each website.
+  description: Stores multiple encrypted passwords, username, and email into a database for each website. Command line interface to add, access, and edit information. Database is able to export into a CSV file, and able to import a CSV across different machines. Multiple users can access the password manager by creating their account to store individual passwords for each website.
 
 # Ledger
 - project: Ledger - Go
   duration: July 2020
   url: "https://github.com/loerac/ledger"
-  description: Designed a general ledger that can be used for general use case. Can be used as a command line tool and as a package. Searches for data in the ledger notebook; date, location of transaction, and details.
+  description: Designed a ledger that can be used for general use. Could be used as a command line tool and as a package. Searches for data in the ledger notebook; date, location of transaction, and details.

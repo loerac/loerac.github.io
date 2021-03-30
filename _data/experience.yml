@@ -1,15 +1,15 @@
 # Jobs
-- company: Foxconn Industry Internet
+- company: Foxconn Industrial Internet
   position: BMC Firmware Engineer
   duration: Dec, 2019 &mdash; Present
-  summary: Worked in low-level architecture of the Linux Kernel and Devicetree to create a BMC image. Worked on teaching how to use Bitbake for development and debugging for Yocto. Added Redfish support to get and update system info; <ul class="resume-item-list"><li>Sensor information</li><li>BMC and BIOS version</li><li>User system control</li></ul>Created tools to imporve build BMC images correctly and efficiently. Wrote documents explaining the architecture and development process.
+  summary: Work in low-level architecture of the Linux Kernel and Devicetree to create BMC firmware. Work on teaching Bitbake for development and debugging for Yocto. Added Redfish support to acquire and update system information&#58; <ul class="resume-item-list"><li>Sensor information,</li><li>BMC and BIOS version,</li><li>User system control.</li></ul>Created tools to imporve the build of a BMC firmware. Wrote documents explaining the architecture and development process.
 
-- company: Astornautics Corporation of America
+- company: Astronautics Corporation of America
   position: Software Engineer I
   duration:  June, 2018 &mdash; Dec, 2019
-  summary: Ensured that there was enough memory space for log files by deleting old and exported data once memory space is limited. Improved on the security and integrity of the file system; <ul class="resume-item-list"><li>Ensured that executable files weren't changed for a different file</li><li>Ensured that file permissions weren't changed</li><li>Ensured that no extra file's were added to any directory or renamed</li></ul>Strengthen communication between an aircraft and ground station by using RSA authentication or X.509 Certificates to connect and send data to each other. Wrote software requirements that explains what each part of the code shall do at any given time.
+  summary: Ensured that there was enough memory space for log files by deleting exported log files once memory space is limited. Improved on the security and integrity of the system&#58; <ul class="resume-item-list"><li>Ensured that executable files weren't changed for a different file.</li><li>Ensured that file permissions weren't changed.</li><li>Ensured that no extra files were added to any directory or renamed.</li></ul>Strengthened communication between an aircraft and ground station by using RSA authentication or X.509 Certificates to connect and send data to each other. Wrote software requirements that explained what each part of the software shall do at any given time.
 
 - company: Integer Holding Corporation
   position: Control Engineer Intern
   duration:   May, 2016  &mdash; Jan, 2017
-  summary: Worked on a robitic arm to implement human motion; <ul class="resume-item-list"><li>Designed the robotic arm to spray pacemakers with a protective coat that is safe for the pacemaker and the human body.</li><li>Designed the user interface to be multilingual.</li><li>Robotic arm operates through a user configuration for each pacemaker measurements; where each configuration can be saved and reused.</li></ul> Improved existing pacemaker threading machines by adding two more motors to thread the wiring together.
+  summary: Worked on a robotic arm to implement human motion&#58; <ul class="resume-item-list"><li>Designed the robotic arm to spray pacemakers with a protective coating that is safe for the pacemaker and the human body.</li><li>Designed the user interface to be bilingual for English and Spanish.</li><li>Robotic arm operated through a user configuration for each pacemaker measurements; where each configuration was saved and reused.</li></ul> Improved existing pacemaker threading machines by adding more motors to thread the wiring together.
