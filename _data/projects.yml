@@ -4,16 +4,16 @@
 - project: Crypto HODL - Python
   duration: March 2021
   url: "https://github.com/loerac/crypto-hodl"
-  description: Displays my portfolio of each cryptocurrency with price/loss, as well as my order history that I have made for each cryptocurrency. Uses API's to get orders, coin information, and news then storing data into cache. Uses cache to read and write data from Raspberry Pi rather than continuously calling API's for the data.
+  description: <ul class="resume-item-list"><li>Displays my portfolio of each cryptocurrency with price/loss, as well as my order history that I have made for each cryptocurrency.</li><li>Uses API's to get orders, coin information, and news then stores data into cache.</li><li>Uses cache to read and write data from Raspberry Pi rather than continuously calling API's for the data.</li></ul>
 
 # Vault Depot
 - project: Vault Depot - Go
   duration: November 2020
   url: "https://github.com/loerac/vaultDepot"
-  description: Stores multiple encrypted passwords, username, and email into a database for each website. Command line interface to add, access, and edit information. Database is able to export into a CSV file, and able to import a CSV across different machines. Multiple users can access the password manager by creating their account to store individual passwords for each website.
+  description: <ul class="resume-item-list"><li>Stores multiple encrypted passwords, username, and email into a database for each website.</li><li>Command line interface to add, access, and edit information.</li><li>Database is able to export into a CSV file, and able to import a CSV across different machines.</li><li>Multiple users can access the password manager by creating their account to store individual passwords for each website.</li></ul>
 
 # Ledger
 - project: Ledger - Go
   duration: July 2020
   url: "https://github.com/loerac/ledger"
-  description: Designed a ledger that can be used for general use. Could be used as a command line tool and as a package. Searches for data in the ledger notebook; date, location of transaction, and details.
+  description: <ul class="resume-item-list"><li>Designed a ledger that can be used for general use.</li><li>Can be used as a command line tool and as a package.</li><li>Searches for data in the ledger notebook; date, location of transaction, and details.</li></ul>
