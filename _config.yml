@@ -20,8 +20,8 @@ resume_contact_email:           "christian.loera@tuta.io"
 resume_contact_telephone:       "(651) 675-6993"
 # resume_contact_address:         "742 Evergreen Terrace, Springfield"
 
-# resume_header_contact_info:     "742 Evergreen Terrace, Springfield • 555-7334 • lisasimpson@youremailaddress.com"
-display_header_contact_info:    "false"
+resume_header_contact_info:     "(651) 675-6993 • christian.loera@tuta.io"
+display_header_contact_info:    "true"
 
 resume_header_intro: "<p>Computer Engineer with experience and education in design, development, and testing. Proficient in C, Go, Python, and Java in backgrounds of RESTful API's and embedded systems, as well as using Linux, PostgresSQL, and Docker.</p>"
 
