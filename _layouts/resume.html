@@ -29,13 +29,11 @@
         </div>
         {% endif %}
 
-        <div class="section-header title-bar no-print">
-          <!-- Your title is also defined in the _config.yml file -->
-          <h2>{{ site.resume_title }}</h2>
-        </div>
-
-        <div class="executive-summary" itemprop="description">
-          {{ site.resume_header_intro }}
+        <div class="resume-item" itemprop="description">
+	  <header class="section-header">
+	    <h2>{{ site.resume_title }}</h2>
+	  </header>
+          <p class="resume-item-copy">{{ site.resume_header_intro }}</p>
         </div>
 
         {% if site.resume_looking_for_work == 'yes' %}
